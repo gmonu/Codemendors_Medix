@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MEDIX</string>
+    <string name="toggle_camera">Toggle Camera</string>
+    <string name="detect_object">Detect Object</string>
+    <string name="more_info">BROWSE</string>
+</resources>
